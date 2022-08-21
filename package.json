@@ -1,0 +1,27 @@
+{
+  "name": "idm-search-bar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuangLiu-cc/idm-search-bar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuangLiu-cc/idm-search-bar/issues"
+  },
+  "homepage": "https://github.com/ChuangLiu-cc/idm-search-bar#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
